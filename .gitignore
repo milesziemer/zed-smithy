@@ -1,3 +1,7 @@
 .DS_Store
-smithy.wasm
+*.wasm
 test.smithy
+
+# Added by cargo
+
+/target
